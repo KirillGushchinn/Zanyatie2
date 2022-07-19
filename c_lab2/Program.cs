@@ -1,8 +1,8 @@
-﻿Console.WriteLine("vvedite 4islo: ");
+﻿Console.WriteLine("Введите число ");
 int input = Convert.ToInt32(Console.ReadLine());
 
 if (input<99) {
-    Console.WriteLine("третьей цифры нет");
+    Console.WriteLine("Третьей цифры нет");
 }
 else {
     int itog = EndNum(input);

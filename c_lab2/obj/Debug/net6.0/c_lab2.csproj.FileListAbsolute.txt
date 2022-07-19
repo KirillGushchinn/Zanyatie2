@@ -13,3 +13,18 @@ C:\vscode\c_lab2\obj\Debug\net6.0\refint\c_lab2.dll
 C:\vscode\c_lab2\obj\Debug\net6.0\c_lab2.pdb
 C:\vscode\c_lab2\obj\Debug\net6.0\c_lab2.genruntimeconfig.cache
 C:\vscode\c_lab2\obj\Debug\net6.0\ref\c_lab2.dll
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Sem2\c_lab2\bin\Debug\net6.0\c_lab2.exe
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Sem2\c_lab2\bin\Debug\net6.0\c_lab2.deps.json
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Sem2\c_lab2\bin\Debug\net6.0\c_lab2.runtimeconfig.json
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Sem2\c_lab2\bin\Debug\net6.0\c_lab2.dll
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Sem2\c_lab2\bin\Debug\net6.0\c_lab2.pdb
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Sem2\c_lab2\obj\Debug\net6.0\c_lab2.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Sem2\c_lab2\obj\Debug\net6.0\c_lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Sem2\c_lab2\obj\Debug\net6.0\c_lab2.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Sem2\c_lab2\obj\Debug\net6.0\c_lab2.AssemblyInfo.cs
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Sem2\c_lab2\obj\Debug\net6.0\c_lab2.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Sem2\c_lab2\obj\Debug\net6.0\c_lab2.dll
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Sem2\c_lab2\obj\Debug\net6.0\refint\c_lab2.dll
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Sem2\c_lab2\obj\Debug\net6.0\c_lab2.pdb
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Sem2\c_lab2\obj\Debug\net6.0\c_lab2.genruntimeconfig.cache
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Sem2\c_lab2\obj\Debug\net6.0\ref\c_lab2.dll

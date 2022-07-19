@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Кирилл\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\vscode\\c_lab2\\c_lab2.csproj",
+      "projectUniqueName": "C:\\Users\\Кирилл\\Desktop\\Обучение в GB\\dz seminar 2 znakomstvo\\Sem2\\c_lab2\\c_lab2.csproj",
       "projectName": "c_lab2",
-      "projectPath": "C:\\vscode\\c_lab2\\c_lab2.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\vscode\\c_lab2\\obj\\",
+      "projectPath": "C:\\Users\\Кирилл\\Desktop\\Обучение в GB\\dz seminar 2 znakomstvo\\Sem2\\c_lab2\\c_lab2.csproj",
+      "packagesPath": "C:\\Users\\Кирилл\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Кирилл\\Desktop\\Обучение в GB\\dz seminar 2 znakomstvo\\Sem2\\c_lab2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Кирилл\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
