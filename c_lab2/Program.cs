@@ -14,5 +14,7 @@ int EndNum (int Num) {
         Num=Num/10;
     }
     int three = Num%10;
+   
     return three;
+
 }
